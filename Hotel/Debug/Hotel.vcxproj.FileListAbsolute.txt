@@ -1,0 +1,4 @@
+D:\Work\Cpp\CLR Projects\Hotel\Hotel\Debug\Hotel.vcxprojAssemblyReference.cache
+D:\Work\Cpp\CLR Projects\Hotel\Hotel\Debug\Hotel.MainForm.resources
+D:\Work\Cpp\CLR Projects\Hotel\Hotel\Debug\Hotel.vcxproj.GenerateResource.cache
+D:\Work\Cpp\CLR Projects\Hotel\Hotel\Debug\Hotel.vcxproj.CopyComplete
